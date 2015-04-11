@@ -4,4 +4,4 @@ echo "Running my initial build"
 echo "Let's fail"
 echo "Go"
 
-exit 1
+exit 0
